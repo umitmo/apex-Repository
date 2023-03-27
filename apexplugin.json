@@ -1,0 +1,60 @@
+
+Skip to content
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+@umitmo
+{
+  "name" : "DA-GoTopScroll",
+  "version" : "1.0",
+  "description" : "DynamicAction_plugin_GoTopScroll-ver1.0",
+  "keywords" : ["tooltip", "popover", "hover"],
+  "homepage" : "https://github.com/umitmo/apex-Repository.git",
+  "bugs" : {
+    "url" : "",
+    "email" : "mokhtari.umit@gmail.com"
+  },
+  "license" : "omid",
+  "author" : {
+    "name" : "Omid Mokhtari",
+    "email" : "mokhtari.umit@gmail.com",
+    "url" : ",
+    "twitter" : "",
+    "donationUrl" : ""
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/umitmo/apex-Repository.git"
+  },
+  "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "apex" : {
+      "versions" : ["21.2.0"],
+      "plugin" : {
+        "internalName" : "GOTOPSCROLL",
+        "type" : "dynamic action",
+        "demo" : "",
+        "previewImage" : ""
+      }
+    }
+  }
+
+}
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
