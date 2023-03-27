@@ -1,4 +1,3 @@
-@umitmo
 {
   "name" : "DA-GoTopScroll",
   "version" : "1.0",
@@ -9,7 +8,7 @@
     "url" : "",
     "email" : "mokhtari.umit@gmail.com"
   },
-  "license" : "omid",
+  "license" : "MIT",
   "author" : {
     "name" : "Omid Mokhtari",
     "email" : "mokhtari.umit@gmail.com",
